@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(./img/paofundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: 600;
+}
+ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    font-size: 25px;
+    
+}
+li {
+    display: flex;
+    align-items: center;
+
+}
+img {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+H1{
+    text-align: center;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
